@@ -3,8 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
+title: Evonne Britton # Website name
 baseurl: '' # Website URL
+# end the URL with a trailing slash '/' 
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
