@@ -5,18 +5,19 @@
 
 # Appearance
 
-theme: minimal
+theme: ocean
 day_night: true
-font: ''
+font: 'minimal'
 font_size: L
 
 # SEO
 
 site_type: Person
-local_business_type: ''
+local_business_type: 'Pro Adidas Runner'
 org_name: ''
-description: ''
-twitter: ''
+description: 'Hi I'm Evonne'
+twitter: '@goevolvego'
+instagram: '@evowings'
 
 # Contact (edit or remove options as required)
 
@@ -41,19 +42,11 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
+    link: 'https://twitter.com/goevolvego?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'
+  - icon: instagram
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: evowings
+    link: 'https://www.instagram.com/evowings/'
 
 # Site header
 
